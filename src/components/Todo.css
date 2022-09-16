@@ -1,0 +1,20 @@
+.hi{
+    font-size:35px;
+    font-weight:bold;
+    color:#2a2a2a;
+}
+.notification h4{
+    font-size:24px;
+    font-weight:bold;
+    color:#2a2a2a;
+}
+.notification p{
+    font-size:16px;
+    color:#2a2a2a;
+    letter-spacing: 2px;
+}
+.todoApp{
+    border:1px solid #2b2b2b;
+    padding:40px;
+    text-align:center;
+}
